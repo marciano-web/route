@@ -1,0 +1,12 @@
+streamlit
+pandas
+folium
+matplotlib
+fpdf
+selenium
+webdriver-manager
+reportlab
+PyPDF2
+geopy
+requests
+openpyxl
